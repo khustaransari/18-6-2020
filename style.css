@@ -1,0 +1,119 @@
+html
+{
+    margin: 0;
+    padding: 0;
+}
+li
+{
+    list-style: none;
+    font-size: 23px;
+    margin: 20px 90px;
+    color:#00a1ff;
+    border: 1px solid whitesmoke;
+    display: inline-block;
+    border-radius: 53%;
+    padding: 18px 18px;
+    background-color: lightblue;
+}
+.logo1 .location
+{
+    display: inline-block;
+    font-size: 25px;
+    margin-top: 22px;
+    margin-left: -70px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.logo1 p
+{
+    margin: 0px 2px;
+    margin-top: 0;
+    font-size: 15px;
+    opacity: .4;
+}
+.logo2 .email
+{
+    display: inline-block;
+    font-size: 25px;
+    margin-top: 22px;
+    margin-left: -78px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.logo2 p
+{
+    margin: 0px 2px;
+    margin-top: 0;
+    font-size: 19px;
+    opacity: .4;
+}
+.logo3 .call
+{
+    display: inline-block;
+    font-size: 25px;
+    margin-top: 22px;
+    margin-left: -68px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.logo3 p
+{
+    margin: 0px 2px;
+    margin-top: 0;
+    font-size: 18px;
+    opacity: .4;
+}
+section
+{
+    margin-left: 80px;
+    margin-top: 10px;
+}
+.container2
+{
+    margin-top: 75px;
+}
+.first span
+{
+  padding: 687px;
+}
+.first
+{
+    font-size: 23px;
+    margin-left: 70px;
+}
+input
+{
+    width: 760px;
+    height: 63px;
+    margin-right: 13px;
+}
+.subject
+{ 
+    margin-top: 30px;
+    font-size: 23px;
+    margin-left: 70px;
+}
+.subject input
+{
+    width: 1545px;
+}
+.box
+{
+    margin-top: 30px;
+    font-size: 23px;
+    margin-left: 70px;
+}
+.box input
+{
+    width: 1545px;
+    height: 380px;
+}
+.send button
+{
+    width: 263px;
+    font-size: 23px;
+    height: 82px;
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 730px;
+    background-color: #00a1ff;
+    border-radius: 40px;
+}
